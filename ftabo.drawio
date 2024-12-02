@@ -1,9 +1,108 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1">
   <diagram name="第 1 页" id="zT9jWQr5E4F1eY5Tu46j">
-    <mxGraphModel>
+    <mxGraphModel dx="2002" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-1" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;Bottom Overtravel&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;gradientDirection=north;fillColor=#FF3333;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="475" y="120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;Safety structure failure&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="790" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ahpk8PtyI5335mOtgSYe-16" target="Ahpk8PtyI5335mOtgSYe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-16" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="500" y="170" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ahpk8PtyI5335mOtgSYe-7" target="Ahpk8PtyI5335mOtgSYe-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ahpk8PtyI5335mOtgSYe-10" target="Ahpk8PtyI5335mOtgSYe-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-21" value="&lt;b&gt;Power supply suspended&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientDirection=north;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="90" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ahpk8PtyI5335mOtgSYe-22" target="Ahpk8PtyI5335mOtgSYe-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-22" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="150" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-24" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Power cut&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="240" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-26" value="&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Power Supply Failure&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="240" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ahpk8PtyI5335mOtgSYe-24" target="Ahpk8PtyI5335mOtgSYe-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ahpk8PtyI5335mOtgSYe-26" target="Ahpk8PtyI5335mOtgSYe-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-29" value="" style="shape=xor;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="790" y="100" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-33" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;Elevator keeps descending&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientDirection=north;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="920" y="30" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-7" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;Elevator keeps descending&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientDirection=north;fontFamily=Times New Roman;container=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ahpk8PtyI5335mOtgSYe-37" target="Ahpk8PtyI5335mOtgSYe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-37" value="" style="shape=xor;whiteSpace=wrap;html=1;rotation=-90;container=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="320" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.175;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ahpk8PtyI5335mOtgSYe-35" target="Ahpk8PtyI5335mOtgSYe-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.175;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ahpk8PtyI5335mOtgSYe-40" target="Ahpk8PtyI5335mOtgSYe-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-56" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="300" y="410" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-40" value="&lt;b&gt;Deceleration failure&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientDirection=north;fontFamily=Times New Roman;container=0;" vertex="1" parent="Ahpk8PtyI5335mOtgSYe-56">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ahpk8PtyI5335mOtgSYe-56" source="Ahpk8PtyI5335mOtgSYe-54" target="Ahpk8PtyI5335mOtgSYe-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-54" value="" style="shape=xor;whiteSpace=wrap;html=1;rotation=-90;container=0;" vertex="1" parent="Ahpk8PtyI5335mOtgSYe-56">
+          <mxGeometry x="30" y="70" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-35" value="&lt;b&gt;Loss of passive drag force&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientDirection=north;fontFamily=Times New Roman;container=0;" vertex="1" parent="1">
+          <mxGeometry y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ahpk8PtyI5335mOtgSYe-51" target="Ahpk8PtyI5335mOtgSYe-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-51" value="" style="shape=xor;whiteSpace=wrap;html=1;rotation=-90;container=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="480" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-72" value="&lt;b&gt;Controller Fault&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientDirection=north;fontFamily=Times New Roman;container=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="580" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-79" value="&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;All cables broke&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="570" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-83" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;font&gt;&lt;b&gt;Overweight disengagement&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="570" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.175;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ahpk8PtyI5335mOtgSYe-79" target="Ahpk8PtyI5335mOtgSYe-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.175;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ahpk8PtyI5335mOtgSYe-83" target="Ahpk8PtyI5335mOtgSYe-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahpk8PtyI5335mOtgSYe-86" value="&lt;b&gt;Controller Fault&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientDirection=north;fontFamily=Times New Roman;container=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="580" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
